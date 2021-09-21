@@ -23,6 +23,7 @@ Open a web browser (i.e. Google Chrome or Mozilla Firefox).
 Type in the following address: localhost/financepeer/homepage.php.
 Now, type in the following address: localhost/phpmyadmin
 Import the .sql file , which is inside the “financepeer” folder of “htdocs”. Now, you can use our website on your PC.
+while signing up only choose admin .
 
 
 Built With:
