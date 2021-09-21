@@ -16,18 +16,17 @@ Deployment:
 
 Deployment on a local PC:
 
-Copy all the files to a folder called “financepeer”.
-Copy the folder “Foodie” to a folder inside the directory where XAMPP is installed, called “htdocs”.
-Open XAMPP and press the first two “Start” buttons to turn your PC into the server.
-Open a web browser (i.e. Google Chrome or Mozilla Firefox).
-Type in the following address: localhost/financepeer/homepage.php.
-Now, type in the following address: localhost/phpmyadmin
-Import the .sql file , which is inside the “financepeer” folder of “htdocs”. Now, you can use our website on your PC.
-while signing up only choose admin .
+Copy all the files to a folder called “financepeer”.<br>
+Copy the folder “Foodie” to a folder inside the directory where XAMPP is installed, called “htdocs”.<br>
+Open XAMPP and press the first two “Start” buttons to turn your PC into the server.<br>
+Open a web browser (i.e. Google Chrome or Mozilla Firefox).<br>
+Type in the following address: localhost/financepeer/homepage.php<br>
+Now, type in the following address: localhost/phpmyadmin<br>
+create financepeer table and then import the financepeer.sql file , which is inside the “financepeer” folder of “htdocs”. Now, you can use our website on your PC.<br>
+while signing up only choose admin .<br>
 
 
 Built With:
 
-The backend was developed using PHP.
-
+The backend was developed using PHP.<br>
  For front end, I used HTML,CSS,Javascript,Jquery and also Bootstrap.
